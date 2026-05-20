@@ -67,7 +67,7 @@ export function Footer() {
         </div>
       </div>
       <div className="border-t border-border py-4 text-center text-xs text-muted-foreground">
-        © {new Date().getFullYear()} Blinkit Clone — Built for demo purposes.
+        © {new Date().getFullYear()} Blinkit. All rights reserved.
       </div>
     </footer>
   );
