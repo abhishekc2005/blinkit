@@ -13,7 +13,7 @@ export const Route = createFileRoute("/")({
   component: Index,
   head: () => ({
     meta: [
-      { title: "Blinkit Clone — Groceries delivered in 10 minutes" },
+      { title: "Blinkit — Groceries delivered in 10 minutes" },
       {
         name: "description",
         content:
